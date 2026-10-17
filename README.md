@@ -38,7 +38,7 @@ const ashad = {
 
 ### AI Lead Capture Agent
 
-A Telegram agent that chats with new leads, collects their name, phone number and interest, saves them to a Google Sheet that works as a simple CRM, and alerts the business owner.
+A WhatsApp agent that chats with new leads, collects their name and interest, saves them with their WhatsApp number to a Google Sheet that works as a simple CRM, and alerts the business owner.
 
 <a href="https://github.com/ashadrashid616-lang/ai-lead-capture-agent">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashadrashid616-lang&repo=ai-lead-capture-agent&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="ai-lead-capture-agent"/>
@@ -48,14 +48,14 @@ A Telegram agent that chats with new leads, collects their name, phone number an
 |---|---|
 | Orchestration | n8n |
 | AI | OpenAI API (AI Agent with chat memory) |
-| Channel | Telegram Bot API |
+| Channel | WhatsApp (Evolution API) |
 | CRM | Google Sheets |
 
 [Code](https://github.com/ashadrashid616-lang/ai-lead-capture-agent)
 
 ### AI Receptionist FAQ Bot
 
-A Telegram receptionist that answers customer questions using only the business info you give it, and hands off to a human (with an owner alert) when it does not know the answer.
+A WhatsApp receptionist that answers customer questions using only the business info you give it, and hands off to a human (with an owner alert) when it does not know the answer.
 
 <a href="https://github.com/ashadrashid616-lang/faq-receptionist-bot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashadrashid616-lang&repo=faq-receptionist-bot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="faq-receptionist-bot"/>
@@ -65,7 +65,7 @@ A Telegram receptionist that answers customer questions using only the business 
 |---|---|
 | Orchestration | n8n |
 | AI | OpenAI API (AI Agent with chat memory) |
-| Channel | Telegram Bot API |
+| Channel | WhatsApp (Evolution API) |
 | Knowledge | Editable business-info node |
 
 [Code](https://github.com/ashadrashid616-lang/faq-receptionist-bot)
@@ -83,6 +83,7 @@ A Telegram receptionist that answers customer questions using only the business 
 <img src="https://img.shields.io/badge/n8n-7dd3fc?style=for-the-badge&logo=n8n&logoColor=0f172a" alt="n8n"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="OpenAI API"/>
 <img src="https://img.shields.io/badge/REST%20APIs-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/Evolution%20API-7dd3fc?style=for-the-badge&labelColor=0f172a" alt="Evolution API"/>
 
 **Dev Tools**
 
