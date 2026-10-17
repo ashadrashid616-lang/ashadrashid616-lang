@@ -12,8 +12,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ashadrashid616-lang&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0f172a" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/ashadrashid616-lang?label=Followers&style=for-the-badge&color=7dd3fc&labelColor=0f172a&logo=github&logoColor=7dd3fc" alt="Followers"/>
+<a href="https://github.com/ashadrashid616-lang"><img src="https://img.shields.io/badge/GitHub-ashadrashid616--lang-7dd3fc?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=0f172a" alt="GitHub profile"/></a>
+<img src="https://hits.sh/github.com/ashadrashid616-lang.svg?style=for-the-badge&label=Profile%20Views&color=7dd3fc&labelColor=0f172a" alt="Profile views"/>
 
 </div>
 
@@ -23,12 +23,23 @@
 
 ```ts
 const ashad = {
-  title: "Software Engineering Student | AI Workflow Automation",
-  education: "BS Software Engineering, Sarhad University (final semester)",
-  stack: ["Python", "C++", "JavaScript", "n8n", "OpenAI API", "REST APIs", "Git"],
-  launchedProjects: ["AI Lead Capture Agent", "AI Receptionist FAQ Bot"],
-  status: "Final-semester student building AI automation workflows",
-  openTo: ["AI automation internships", "Software engineering roles", "Entry-level positions"],
+  title: "Software Engineer | AI Automation",
+  education: "BSSE, Sarhad University",
+  stack: [
+    "Python", "C++", "JavaScript",
+    "n8n", "OpenAI API", "REST APIs",
+    "Git",
+  ],
+  launchedProjects: [
+    "AI Lead Capture Agent",
+    "AI Receptionist FAQ Bot",
+  ],
+  status: "Final-semester student",
+  openTo: [
+    "AI automation internships",
+    "Software engineering roles",
+    "Entry-level positions",
+  ],
 };
 ```
 
